@@ -1,0 +1,23 @@
+{
+  "name": "chrome-extension-demo",
+  "version": "1.0.0",
+  "description": "chrome extension demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startdusk/chrome-extension-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/startdusk/chrome-extension-demo/issues"
+  },
+  "homepage": "https://github.com/startdusk/chrome-extension-demo#readme",
+  "dependencies": {
+    "@types/chrome": "^0.0.164"
+  }
+}
